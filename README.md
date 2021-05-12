@@ -12,3 +12,4 @@ Here, I've freezed the convolutional base layers and trained the four other dens
 ## Results obtained
 <b>Accuracy on the test data</b> : 86.80%
 
+![alt text](https://drive.google.com/file/d/1oIjfPjGVDa9kblosjzaVSSqRZVm8bIgW/view?usp=sharing)
